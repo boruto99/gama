@@ -74,7 +74,7 @@ The project contains three config files specifically for deploying with Netlify.
 
 To deploy to your Netlify account, hit the button below.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/eddiesigner/eduardogomez.io)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/boruto99/gama)
 
 The environment variables including your Content API Keys must be set as [Netlify ENV variables](https://docs.netlify.com/configure-builds/environment-variables/) for production builds.
 
